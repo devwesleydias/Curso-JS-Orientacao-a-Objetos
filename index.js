@@ -40,3 +40,4 @@ contaCorrenteRicardo.depositar(100);
 contaCorrenteRicardo.sacar(50);
 
 console.log(contaCorrenteRicardo);
+console.log(contaCorrenteRicardo);
